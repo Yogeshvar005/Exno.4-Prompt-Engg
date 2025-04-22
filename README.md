@@ -70,5 +70,6 @@ Role-based prompting created a more empathetic and user-focused interaction expe
 Instructional prompting ensured step-by-step clarity in process explanations.
 
 
-### Result: Thus the Prompts were exected succcessfully .
+### Result: 
+Thus the Prompts were exected succcessfully .
 
